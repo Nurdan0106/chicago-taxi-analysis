@@ -17,3 +17,7 @@ Analysis of Chicago taxi trips (2023) using BigQuery public dataset.
 1. Install: `pip install google-cloud-bigquery pandas matplotlib`
 2. Authenticate: `gcloud auth application-default login`
 3. Run `analysis.ipynb`
+
+## Visualizations
+<img width="775" height="578" alt="image" src="https://github.com/user-attachments/assets/454933df-cec9-4b04-b570-cbc4653e6389" />
+
